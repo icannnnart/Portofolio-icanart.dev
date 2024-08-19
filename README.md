@@ -9,6 +9,12 @@ Portofolio-icanart.dev is a simple portfolio website built using HTML. This site
 - **Easy Navigation:** Simple navigation structure allows visitors to easily explore different sections of the portfolio.
 - **Gallery of Works:** Displays various artworks and projects in a visually appealing manner.
 
+## Live Preview
+
+You can view the live version of this portfolio at the following link:
+
+[Portofolio-icanart.dev Live Preview](https://icanart.dev)
+
 ## Installation
 
 To set up the project locally:
